@@ -1,1 +1,3 @@
-#Teste de sincronização do GitHub via terminal
+# Teste de sincronização do GitHub via terminal
+
+## Exercícios referentes a aula sobre Jupyter
